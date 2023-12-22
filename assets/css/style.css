@@ -1,0 +1,20 @@
+/* Styling Asteric wildcard selector to override the default styles added by the browser*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Styling the body */
+body {
+    background-color: #171717;
+    color: #ff6633;
+    font-family: serif;
+    font-size: 1.6rem;
+    line-height: 1.5;
+}
+
+/* Styling the nav links */
+#nav-list a {
+    color: #ffff;
+}
