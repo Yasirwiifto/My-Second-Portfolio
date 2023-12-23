@@ -15,6 +15,106 @@ body {
 }
 
 /* Styling the nav links */
+
+
+header {
+    width: 100%;
+}
+
+nav {
+    width: 100%;
+}
+
+#logo {
+    width: 3rem;
+}
 #nav-list a {
     color: #ffff;
+}
+
+
+
+
+/*Styling the Media queries and making the website responsive */
+
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (max-width: 576px) {
+    #logo {
+        width: 5rem;
+    }
+    
+    #icon-menu{
+        width: 1.8rem;
+        border-radius: 3rem;
+        padding: .5rem;
+    }
+
+#span { 
+        width: 1.5rem;
+        padding: .5rem;
+        position: relative;
+        right: 0;
+        left: -.4rem;
+    }
+
+
+}
+
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+    #logo {
+        width: 7rem;
+    }
+    
+    #icon-menu{
+        margin-right: 0rem;
+        border-radius: 3rem;
+    }
+}
+
+
+
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+    #logo {
+        width: 7rem;
+    }
+    
+    /*moving the nav items from right*/
+    #navbarTogglerDemo02 {
+        margin-right: 5rem;
+    }
+
+    /*moving the the logo from left*/
+    .navbar-brand {
+        margin-left: 3rem;
+    }
+
+    #icon-menu{
+        margin-right: 5rem;
+        border-radius: 3rem;
+    }
+}
+
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+    #logo {
+        width: 7rem;
+    }
+    
+    /*moving the nav items from right*/
+    #navbarTogglerDemo02 {
+        margin-right: 10rem;
+    }
+
+    /*moving the the logo from left*/
+    .navbar-brand {
+        margin-left: 7rem;
+    }
 }
