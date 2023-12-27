@@ -8,9 +8,9 @@
 /* Styling the body */
 body {
     background-color: #171717;
-    color: #ff6633;
+    color: #ffff;
     font-family: serif;
-    font-size: 1.6rem;
+    font-size: 1.2rem;
     line-height: 1.5;
 }
 
@@ -28,12 +28,26 @@ nav {
 #logo {
     width: 3rem;
 }
+
 #nav-list a {
-    color: #ffff;
+    color: #d9d6d6;
+    font-size: 1.7rem;
 }
 
+#nav-list a:hover {
+    transition-duration: 0.5s;
+    color: #ff6633;
+}
 
+.title {
+    color: #ff6633;
+    font-family: 'The Season';
+    text-align: center;
+}
 
+.hero-image {
+    border-radius: 2rem;
+}
 
 /*Styling the Media queries and making the website responsive */
 
@@ -44,14 +58,14 @@ nav {
     #logo {
         width: 5rem;
     }
-    
-    #icon-menu{
+
+    #icon-menu {
         width: 1.8rem;
         border-radius: 3rem;
         padding: .5rem;
     }
 
-#span { 
+    #span {
         width: 1.5rem;
         padding: .5rem;
         position: relative;
@@ -69,8 +83,8 @@ nav {
     #logo {
         width: 7rem;
     }
-    
-    #icon-menu{
+
+    #icon-menu {
         margin-right: 0rem;
         border-radius: 3rem;
     }
@@ -84,7 +98,7 @@ nav {
     #logo {
         width: 7rem;
     }
-    
+
     /*moving the nav items from right*/
     #navbarTogglerDemo02 {
         margin-right: 5rem;
@@ -95,7 +109,7 @@ nav {
         margin-left: 3rem;
     }
 
-    #icon-menu{
+    #icon-menu {
         margin-right: 5rem;
         border-radius: 3rem;
     }
@@ -107,7 +121,7 @@ nav {
     #logo {
         width: 7rem;
     }
-    
+
     /*moving the nav items from right*/
     #navbarTogglerDemo02 {
         margin-right: 10rem;
@@ -117,4 +131,9 @@ nav {
     .navbar-brand {
         margin-left: 7rem;
     }
+
+    #home-content-header {
+        margin-top: 8rem;
+    }
+
 }
