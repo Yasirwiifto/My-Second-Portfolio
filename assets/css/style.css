@@ -39,14 +39,38 @@ nav {
     color: #ff6633;
 }
 
-.title {
+#home-content-header .title {
     color: #ff6633;
     font-family: 'The Season';
     text-align: center;
 }
 
+#home-content-header p {
+    margin-top: -.9rem;
+    font-size: 1rem;
+    font-family: 'The season';
+}
+
 .hero-image {
     border-radius: 2rem;
+}
+
+#explore-container {
+    margin-bottom: 2rem;  
+}
+
+#explore-link {
+    border: 1px solid #ff6633;
+    border-radius: 4rem;
+}
+
+#explore-link a {
+    font-family: 'The Season';
+}
+
+#explore-link a:hover {
+    transition-duration: 0.5s;
+    color: #ff6633;
 }
 
 /*Styling the Media queries and making the website responsive */
