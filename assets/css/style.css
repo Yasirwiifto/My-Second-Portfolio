@@ -105,8 +105,36 @@ nav {
     color: #ff6633;
 }
 
-
 /* End Of Projects Section */
+
+
+/* About Section */
+
+#About {
+    padding-bottom: 5rem;
+}
+
+#About h1 {
+    color: #ff6633;
+}
+
+#about-info ul {
+    font-family: 'the seasons';
+}
+
+#about-info li {
+    color: #cdcccc;
+    font-family: 'the seasons';
+}
+
+#about-img {
+    width: 20rem;
+    border-radius: 2rem;
+}
+
+
+/* End Of About Section */
+
 
 /*Styling the Media queries and making the website responsive */
 
@@ -132,6 +160,16 @@ nav {
         left: -.4rem;
     }
 
+
+    /* About section */
+    #about-img {
+        width: 20rem;
+        border-radius: 90rem;
+        position: relative;
+        z-index: 1;
+        top: -20rem;
+        right: -15rem;
+    }
 
 }
 
@@ -172,7 +210,20 @@ nav {
         margin-right: 5rem;
         border-radius: 3rem;
     }
+
+
+    /* About section */
+    #about-img {
+        width: 10rem;
+        border-radius: 90rem;
+        position: relative;
+        z-index: 1;
+        top: -20rem;
+        right: -15rem;
+    }
+
 }
+
 
 
 /* Large devices (desktops, 992px and up)*/
@@ -195,4 +246,90 @@ nav {
         margin-top: 8rem;
     }
 
+
+    /* About section */
+    #about-img {
+        width: 16rem;
+        border-radius: 90rem;
+        position: relative;
+        z-index: 1;
+        top: -19rem;
+        right: -23rem;
+    }
+
+
 }
+
+
+
+/* Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+    #logo {
+        width: 8rem;
+    }
+
+    /*moving the nav items from right*/
+    #navbarTogglerDemo02 {
+        margin-right: 10rem;
+    }
+
+    /*moving the the logo from left*/
+    .navbar-brand {
+        margin-left: 7rem;
+    }
+
+    #home-content-header {
+        margin-top: 8rem;
+    }
+
+
+    /* About section */
+    #about-img {
+        width: 18rem;
+        border-radius: 90rem;
+        position: relative;
+        z-index: 1;
+        top: -19rem;
+        right: -23rem;
+    }
+
+
+}
+
+
+
+
+/* Large devices (desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+    #logo {
+        width: 9rem;
+    }
+
+    /*moving the nav items from right*/
+    #navbarTogglerDemo02 {
+        margin-right: 10rem;
+    }
+
+    /*moving the the logo from left*/
+    .navbar-brand {
+        margin-left: 7rem;
+    }
+
+    #home-content-header {
+        margin-top: 8rem;
+    }
+
+
+    /* About section */
+    #about-img {
+        width: 20rem;
+        border-radius: 90rem;
+        position: relative;
+        z-index: 1;
+        top: -19rem;
+        right: -23rem;
+    }
+
+
+}
+
