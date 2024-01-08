@@ -26,6 +26,7 @@
 
 <body>
 
+    <!-- Header -->
     <header>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container-fluid">
@@ -43,28 +44,31 @@
                             <a class="nav-link" aria-current="page" href="index.html">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Projects</a>
+                            <a class="nav-link" href="#Projects">Projects</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">About</a>
+                            <a class="nav-link" href="#About">About</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Contact</a>
+                            <a class="nav-link" href="#Contact">Contact</a>
                         </li>
                     </ul>
                 </div>
             </div>
         </nav>
     </header>
+    <!-- End of Header -->
 
-    <section class="container-fluid d-flex flex-wrap col-sm-12" id="Home">
+    <!-- Home section -->
+    <section class="container-fluid d-flex flex-wrap col-sm-8 col-md-10 col-lg-10" id="Home">
         <div class="container-fluid p-5 hero">
             <div class="row m-auto">
                 <div class="col-lg-6" id="home-content-header">
                     <h1 class="title">Yasir Mohamed</h1>
                     <p class="text-center">Full Stack Software Developer </p>
                     <div class="text-center m-lg-5" id="explore-container">
-                        <button class="btn " id="explore-link"> <a href="#Projects" class="btn">Explore &#8594</a></button>
+                        <button class="btn " id="explore-link"> <a href="#Projects" class="btn">Explore
+                                &#8594</a></button>
                     </div>
                 </div>
                 <div class="col-lg-6 hero">
@@ -73,6 +77,57 @@
             </div>
         </div>
     </section>
+    <!-- End of Home Section -->
+
+    <!-- Projects Section -->
+
+    <section class="container-fluid justify-content-center" id="Projects">
+        <div class="text-center py-5" id="projects-header">
+            <h1>My Projects</h1>
+        </div>
+
+        <div class="row d-flex justify-content-center" id="projects-container">
+
+            <div class="card">
+                <img src="assets/images/Subax-Tech.png" class="card-img-top" alt="SubaxTech project">
+                <div class="card-body text-center">
+                    <h5 class="card-title text-center">Subax Tech</h5>
+                    <p class="card-text text-center">Subax Tech is a web design and development agency. I built this
+                        website for my agency.</p>
+                    <a href="https://yasirwiifto.github.io/SubaxTech/index.html" target="_blank"
+                        class="btn text-center project-link">Project Link</a>
+                </div>
+            </div>
+
+            <div class="card">
+                <img src="assets/images/Worldcup-project.png" class="card-img-top" alt="Worldcup project">
+                <div class="card-body text-center">
+                    <h5 class="card-title text-center">World Cup 2022</h5>
+                    <p class="card-text text-center">Some quick example text to build on the card title and make up the
+                        bulk of the
+                        card's content.</p>
+                    <a href="https://yasirwiifto.github.io/world-cup/" target="_blank"
+                        class="btn text-center project-link">Project Link</a>
+                </div>
+            </div>
+
+
+            <div class="card">
+                <img src="assets/images/Portfolio-One.png" class="card-img-bottom card-img-top" alt="Portfolio project">
+                <div class="card-body text-center">
+                    <h5 class="card-title text-center">Portfolio One</h5>
+                    <p class="card-text text-center">Some quick example text to build on the card title and make up the
+                        bulk of the
+                        card's content.</p>
+                    <a href="https://yasirwiifto.github.io/My-portfolio-one/" target="_blank"
+                        class="btn text-center project-link">Project Link</a>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- End of Projects Section -->
 
     <!--JavaScript Link-->
     <script src="assets/js/script.js"></script>
