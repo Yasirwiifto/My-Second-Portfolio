@@ -56,7 +56,7 @@ nav {
 }
 
 #explore-container {
-    margin-bottom: 2rem;  
+    margin-bottom: 2rem;
 }
 
 #explore-link {
@@ -73,6 +73,40 @@ nav {
     transition-duration: 0.5s;
     color: #ff6633;
 }
+
+
+/* Projects Section */
+
+
+#projects-header h1 {
+    color: #ff6633;
+    letter-spacing: 3px;
+    font-family: 'the seasons';
+    font-weight: 800;
+}
+
+
+.card {
+    width: 20rem;
+    margin: 1.5rem;
+}
+
+.project-link {
+    border: 1px solid #ff6633;
+    border-radius: 4rem;
+}
+
+.project-link:hover {
+    border: 1px solid #ff6633;
+    color: #ff6633;
+}
+
+.card-title {
+    color: #ff6633;
+}
+
+
+/* End Of Projects Section */
 
 /*Styling the Media queries and making the website responsive */
 
