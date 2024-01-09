@@ -141,11 +141,19 @@ nav {
 
 
 
-/* Small devices (landscape phones, 576px and up)*/
+/* Small devices (landscape phones, 576px)*/
 @media (max-width: 576px) {
-    #logo {
-        width: 5rem;
-    }
+  
+        /*moving the the logo from left*/
+        .navbar-brand {
+            margin-left: 3rem;
+        }
+
+        /* Logo width */
+        #logo {
+            width: 5rem;
+        }
+
 
     #icon-menu {
         width: 1.8rem;
@@ -164,13 +172,11 @@ nav {
 
     /* About section */
     #about-img {
-        width: 10rem;
+        width: 14rem;
         border-radius: 90rem;
     }
 
 }
-
-
 
 /* Small devices (landscape phones, 576px and up)*/
 @media (min-width: 576px) {
@@ -182,25 +188,32 @@ nav {
         margin-right: 0rem;
         border-radius: 3rem;
     }
+
+     /* About section */
+     #about-img {
+        width: 15rem;
+        border-radius: 90rem;
+    }
+
 }
-
-
 
 
 /*Medium devices (tablets, 768px and up)*/
 @media (min-width: 768px) {
-    #logo {
-        width: 7rem;
-    }
+   
+        /*moving the the logo from left*/
+        .navbar-brand {
+            margin-left: 3rem;
+        }
+
+        /* Logo width */
+        #logo {
+            width: 6rem;
+        }
 
     /*moving the nav items from right*/
     #navbarTogglerDemo02 {
-        margin-right: 5rem;
-    }
-
-    /*moving the the logo from left*/
-    .navbar-brand {
-        margin-left: 3rem;
+        margin-right: 6rem;
     }
 
     #icon-menu {
@@ -211,12 +224,12 @@ nav {
 
     /* About section */
     #about-img {
-        width: 10rem;
+        width: 12rem;
         border-radius: 90rem;
         position: relative;
         z-index: 1;
         top: -20rem;
-        right: -15rem;
+        right: -17rem;
     }
 
 }
@@ -225,6 +238,13 @@ nav {
 
 /* Large devices (desktops, 992px and up)*/
 @media (min-width: 992px) {
+
+     /*moving the the logo from left*/
+     .navbar-brand {
+        margin-left: 7rem;
+    }
+
+    /* logo width */
     #logo {
         width: 7rem;
     }
@@ -234,33 +254,30 @@ nav {
         margin-right: 10rem;
     }
 
+    #home-content-header {
+        margin-top: 8rem;
+    }
+
+    /* About section */
+    #about-img {
+        width: 13rem;
+        border-radius: 90rem;
+        position: relative;
+        z-index: 1;
+        top: -18rem;
+        right: -25rem;
+    }
+}
+
+/* Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
     /*moving the the logo from left*/
     .navbar-brand {
         margin-left: 7rem;
     }
 
-    #home-content-header {
-        margin-top: 8rem;
-    }
-
-
-    /* About section */
-    #about-img {
-        width: 16rem;
-        border-radius: 90rem;
-        position: relative;
-        z-index: 1;
-        top: -19rem;
-        right: -23rem;
-    }
-
-
-}
-
-
-
-/* Large devices (desktops, 1200px and up)*/
-@media (min-width: 1200px) {
+    /* Logo width */
     #logo {
         width: 8rem;
     }
@@ -270,15 +287,9 @@ nav {
         margin-right: 10rem;
     }
 
-    /*moving the the logo from left*/
-    .navbar-brand {
-        margin-left: 7rem;
-    }
-
     #home-content-header {
         margin-top: 8rem;
     }
-
 
     /* About section */
     #about-img {
@@ -287,30 +298,29 @@ nav {
         position: relative;
         z-index: 1;
         top: -19rem;
-        right: -23rem;
+        right: -25rem;
     }
-
-
 }
-
-
-
 
 /* Large devices (desktops, 1400px and up)*/
 @media (min-width: 1400px) {
+
+    /*moving the the logo from left*/
+    .navbar-brand {
+        margin-left: 8rem;
+    }
+
+    /* Logo width */
     #logo {
         width: 9rem;
     }
 
     /*moving the nav items from right*/
     #navbarTogglerDemo02 {
-        margin-right: 10rem;
+        margin-right: 18rem;
     }
 
-    /*moving the the logo from left*/
-    .navbar-brand {
-        margin-left: 7rem;
-    }
+    
 
     #home-content-header {
         margin-top: 8rem;
@@ -324,7 +334,85 @@ nav {
         position: relative;
         z-index: 1;
         top: -19rem;
-        right: -23rem;
+        right: -28rem;
+    }
+
+
+}
+
+
+/* Large devices (desktops, 1600px and up)*/
+@media (min-width: 1600px) {
+
+    /*moving the the logo from left*/
+    .navbar-brand {
+        margin-left: 10rem;
+    }
+
+    /* Logo width */
+    #logo {
+        width: 9rem;
+    }
+
+    /*moving the nav items from right*/
+    #navbarTogglerDemo02 {
+        margin-right: 18rem;
+    }
+
+    
+
+    #home-content-header {
+        margin-top: 8rem;
+    }
+
+
+    /* About section */
+    #about-img {
+        width: 20rem;
+        border-radius: 90rem;
+        position: relative;
+        z-index: 1;
+        top: -19rem;
+        right: -29rem;
+    }
+
+
+}
+
+
+/* Large devices (desktops, 1900px and up)*/
+@media (min-width: 1900px) {
+
+    /*moving the the logo from left*/
+    .navbar-brand {
+        margin-left: 12rem;
+    }
+
+    /* Logo width */
+    #logo {
+        width: 10rem;
+    }
+
+    /*moving the nav items from right*/
+    #navbarTogglerDemo02 {
+        margin-right: 18rem;
+    }
+
+    
+
+    #home-content-header {
+        margin-top: 8rem;
+    }
+
+
+    /* About section */
+    #about-img {
+        width: 24rem;
+        border-radius: 90rem;
+        position: relative;
+        z-index: 1;
+        top: -19rem;
+        right: -32rem;
     }
 
 
