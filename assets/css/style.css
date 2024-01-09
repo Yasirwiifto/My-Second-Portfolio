@@ -136,6 +136,15 @@ nav {
 /* End Of About Section */
 
 
+/* Footer section */
+
+.footer-link img:hover{
+    background-color: #67615c;
+    border-radius: 2rem;
+}
+/* End Of Footer Section */
+
+
 /*Styling the Media queries and making the website responsive */
 
 /* Small devices (landscape phones, 576px)*/
