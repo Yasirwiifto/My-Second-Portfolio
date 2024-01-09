@@ -152,12 +152,12 @@ nav {
   
         /*moving the the logo from left*/
         .navbar-brand {
-            margin-left: 3rem;
+            margin-left: 2rem;
         }
 
         /* Logo width */
         #logo {
-            width: 5rem;
+            width: 4rem;
         }
 
 
