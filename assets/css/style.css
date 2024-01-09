@@ -62,6 +62,7 @@ nav {
 #explore-link {
     border: 1px solid #ff6633;
     border-radius: 3rem;
+    color: #ffffff;
 }
 
 #explore-link a {
@@ -69,7 +70,7 @@ nav {
     color: #ffffff;
 }
 
-#explore-link a:hover {
+#explore-link:hover {
     transition-duration: 0.5s;
     color: #ff6633;
 }
