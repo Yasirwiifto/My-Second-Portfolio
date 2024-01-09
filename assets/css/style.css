@@ -75,10 +75,7 @@ nav {
     color: #ff6633;
 }
 
-
 /* Projects Section */
-
-
 #projects-header h1 {
     color: #ff6633;
     letter-spacing: 3px;
@@ -86,11 +83,13 @@ nav {
     font-weight: 800;
 }
 
-
 .card {
     background-color: #171717;
     width: 20rem;
     margin: 1.5rem;
+}
+
+.card-text {
     color: #ffffff;
 }
 
@@ -107,7 +106,6 @@ nav {
 .card-title {
     color: #ff6633;
 }
-
 /* End Of Projects Section */
 
 
@@ -134,14 +132,10 @@ nav {
     width: 20rem;
     border-radius: 2rem;
 }
-
-
 /* End Of About Section */
 
 
 /*Styling the Media queries and making the website responsive */
-
-
 
 /* Small devices (landscape phones, 576px)*/
 @media (max-width: 576px) {
@@ -170,7 +164,6 @@ nav {
         right: 0;
         left: -.4rem;
     }
-
 
     /* About section */
     #about-img {
@@ -223,7 +216,6 @@ nav {
         border-radius: 3rem;
     }
 
-
     /* About section */
     #about-img {
         width: 12rem;
@@ -235,8 +227,6 @@ nav {
     }
 
 }
-
-
 
 /* Large devices (desktops, 992px and up)*/
 @media (min-width: 992px) {
@@ -322,12 +312,9 @@ nav {
         margin-right: 18rem;
     }
 
-    
-
     #home-content-header {
         margin-top: 8rem;
     }
-
 
     /* About section */
     #about-img {
@@ -338,10 +325,7 @@ nav {
         top: -19rem;
         right: -28rem;
     }
-
-
 }
-
 
 /* Large devices (desktops, 1600px and up)*/
 @media (min-width: 1600px) {
@@ -361,12 +345,10 @@ nav {
         margin-right: 18rem;
     }
 
-    
 
     #home-content-header {
         margin-top: 8rem;
     }
-
 
     /* About section */
     #about-img {
@@ -377,10 +359,7 @@ nav {
         top: -19rem;
         right: -29rem;
     }
-
-
 }
-
 
 /* Large devices (desktops, 1900px and up)*/
 @media (min-width: 1900px) {
@@ -400,12 +379,9 @@ nav {
         margin-right: 18rem;
     }
 
-    
-
     #home-content-header {
         margin-top: 8rem;
     }
-
 
     /* About section */
     #about-img {
@@ -416,7 +392,4 @@ nav {
         top: -19rem;
         right: -32rem;
     }
-
-
 }
-
