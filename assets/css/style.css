@@ -96,6 +96,7 @@ nav {
 .project-link {
     border: 1px solid #ff6633;
     border-radius: 4rem;
+    color: #ffffff;
 }
 
 .project-link:hover {
