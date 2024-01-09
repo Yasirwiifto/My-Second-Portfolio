@@ -135,6 +135,26 @@ nav {
 }
 /* End Of About Section */
 
+/* Contact Section */
+
+#Contact * {
+    color: #ffffff;
+}
+
+    #contact-title {
+        color: #ff6633;
+    }
+
+    #submit {
+    border: 1px solid #ff6633;
+    border-radius: 3rem;
+    color: #ffffff;
+    }
+
+    #submit:hover {
+        color: #ff6633;
+    }
+/* End Of Contact Section */
 
 /* Footer section */
 
