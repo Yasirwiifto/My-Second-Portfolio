@@ -61,7 +61,7 @@ nav {
 
 #explore-link {
     border: 1px solid #ff6633;
-    border-radius: 4rem;
+    border-radius: 3rem;
 }
 
 #explore-link a {
@@ -87,6 +87,7 @@ nav {
 
 
 .card {
+    background-color: #171717;
     width: 20rem;
     margin: 1.5rem;
 }
@@ -163,12 +164,8 @@ nav {
 
     /* About section */
     #about-img {
-        width: 20rem;
+        width: 10rem;
         border-radius: 90rem;
-        position: relative;
-        z-index: 1;
-        top: -20rem;
-        right: -15rem;
     }
 
 }
