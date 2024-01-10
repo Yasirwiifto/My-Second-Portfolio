@@ -145,7 +145,7 @@ nav {
         color: #ff6633;
     }
 
-    input {
+    input * {
         color: #cdcccc;
     }
 
