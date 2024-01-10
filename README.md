@@ -31,3 +31,11 @@ I am creating this portfolio as part of a series of projects. This is the second
 * As a visitor, I want to explore a portfolio section with project details and links to GitHub repositories, so I can assess the developer's practical skills and project diversity. 
 
 ***
+
+### **Site Aims:**
+
+* Use my portfolio to establish a strong online presence on professional platforms. This will increase the reach and impact of my portfolio.
+
+* Prioritize providing a positive user experience and to focus on optimizing mobile responsiveness, ensuring fast loading times, and facilitating easy navigation.
+
+***
