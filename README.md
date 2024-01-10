@@ -1,5 +1,6 @@
 # My Second Portfolio Project
-I am creating this portfolio as part of three series projects, this is the second project. I have used HTML, CSS & JavScript to create, and it's a Dynamic website that meets the assignment criteria.
+
+I am creating this portfolio as part of a series of projects. This is the second project that I have created using HTML, CSS, and JavaScript. It is a dynamic website that satisfies the assignment criteria.
 
 ![MockUp](assets/docs/Mockup.png)
 
