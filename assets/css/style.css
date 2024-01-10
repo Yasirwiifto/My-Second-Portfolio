@@ -145,6 +145,10 @@ nav {
         color: #ff6633;
     }
 
+    .form-control {
+        color: #cdcccc;
+    }
+
     #submit {
     border: 1px solid #ff6633;
     border-radius: 3rem;
