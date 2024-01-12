@@ -259,7 +259,10 @@ nav {
         top: -20rem;
         right: -17rem;
     }
-
+ /* Contact section */
+ #Contact {
+    margin-top: -14rem;
+ }
 }
 
 /* Large devices (desktops, 992px and up)*/
@@ -293,6 +296,10 @@ nav {
         top: -18rem;
         right: -25rem;
     }
+     /* Contact section */
+ #Contact {
+    margin-top: -15rem;
+ }
 }
 
 /* Large devices (desktops, 1200px and up)*/
@@ -326,6 +333,11 @@ nav {
         top: -19rem;
         right: -25rem;
     }
+
+     /* Contact section */
+ #Contact {
+    margin-top: -19rem;
+ }
 }
 
 /* Large devices (desktops, 1400px and up)*/
@@ -359,6 +371,11 @@ nav {
         top: -19rem;
         right: -28rem;
     }
+
+     /* Contact section */
+ #Contact {
+    margin-top: -23rem;
+ }
 }
 
 /* Large devices (desktops, 1600px and up)*/
@@ -393,6 +410,11 @@ nav {
         top: -19rem;
         right: -29rem;
     }
+
+     /* Contact section */
+ #Contact {
+    margin-top: -25rem;
+ }
 }
 
 /* Large devices (desktops, 1900px and up)*/
@@ -426,4 +448,9 @@ nav {
         top: -19rem;
         right: -32rem;
     }
+
+     /* Contact section */
+ #Contact {
+    margin-top: -27rem;
+ }
 }
