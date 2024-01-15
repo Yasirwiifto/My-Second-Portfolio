@@ -2,7 +2,7 @@
 
 I am creating this portfolio as part of a series of projects. This is the second project that I have created using HTML, CSS, and JavaScript. It is a dynamic website that satisfies the assignment criteria.
 
-![MockUp](assets/docs/Mockup.png)
+![MockUp](assets/docs/Mockup-Responsive.png)
 
 
 <a href="https://yasirwiifto.github.io/My-Second-Portfolio/index.html">Website Link</a>
@@ -37,5 +37,60 @@ I am creating this portfolio as part of a series of projects. This is the second
 * Use my portfolio to establish a strong online presence on professional platforms. This will increase the reach and impact of my portfolio.
 
 * Prioritize providing a positive user experience and to focus on optimizing mobile responsiveness, ensuring fast loading times, and facilitating easy navigation.
+
+***
+
+## Features 
+
+My website has one index page that contains four sections. Home Section, Projects Section,About Section, and Contact Section. It's designed to be responsive to various screen sizes.
+
+### Header:
+ - logo and navbar.
+
+![Navbar](assets/docs/navbar.png)
+
+***
+
+### Home Section:
+
+Home section displays the site title, image and three project display slides.
+
+
+![Home section](assets/docs/Home-section.png)
+
+
+![Home section](assets/docs/Home-section1.png)
+
+***
+
+### Project Section:
+
+Project section displays the project that I have developed.
+
+![Project section](assets/docs/Projects-section.png)
+
+***
+
+### About Section:
+
+Displays my Experience and achievements.
+
+![About section](assets/docs/About-section.png)
+
+***
+
+### Contact Section:
+
+Displays form that contains header, three label with two inputs and textarea and submit button.
+
+![Contact section](assets/docs/Contact-section.png)
+
+***
+
+### Footer:
+
+The footer contains three social links each link opens external link.
+
+![Footer](assets/docs/Footer-Section.png)
 
 ***
