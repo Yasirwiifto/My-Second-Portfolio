@@ -139,13 +139,13 @@ nav {
 
       button {
         cursor: pointer;
-        font-size: 18px;
         color: white;
         background-color: #ff6633;
         border: none;
         padding: .8rem 1rem;
         border-radius: 5px;
         outline: none;
+        font-family: sans-serif;
       }
   
       button:hover {
