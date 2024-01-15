@@ -178,6 +178,10 @@ nav {
     border: 1px solid #ff6633;
     border-radius: 4rem;
     color: #ffffff;
+    width: 40%;
+    font-size: 1.3rem;
+    margin: auto;
+    margin-bottom: 1rem;
 }
 
 .project-link:hover {
