@@ -57,7 +57,7 @@ I am creating this portfolio as part of a series of projects. This is the second
 
 ### About Section
 
-![About section](assets/design/tablet-about.png)
+![About section](assets/docs/Design-about-section.png)
 
 ***
 
