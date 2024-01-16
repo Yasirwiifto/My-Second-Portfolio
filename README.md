@@ -77,6 +77,8 @@ I am creating this portfolio as part of a series of projects. This is the second
 
 ![Title and the hovers color](assets/docs/Titile-and-hover-color.png)
 
+*** 
+
 ### Typography
 
     I used two fonts for this project:
@@ -85,7 +87,7 @@ I am creating this portfolio as part of a series of projects. This is the second
 
 * Serif for the content.
 
-
+***
 
 ## Features 
 
