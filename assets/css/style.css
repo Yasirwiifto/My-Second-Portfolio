@@ -230,12 +230,6 @@ nav {
         color: #ff6633;
     }
 
-    input::placeholder {
-        font-weight: italic;
-        opacity: 0.5;
-        color: #e1e1e1;
-    }
-
     #submit {
     border: 1px solid #ff6633;
     border-radius: 3rem;
