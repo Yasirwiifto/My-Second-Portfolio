@@ -147,7 +147,7 @@ The footer contains three social links each link opens external link.
 
 * HTML
 * CSS
-* Bootstrap
+* JavaScript
 
 
 ***
