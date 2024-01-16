@@ -67,6 +67,24 @@ I am creating this portfolio as part of a series of projects. This is the second
 
 ***
 
+### Color Scheme 
+
+* I have used #171717 for the background color.
+
+![Body background color](assets/docs/background-color.png)
+
+* I have used #ff6633 for the title, the hovers and buttons.
+
+![Title and the hovers color](assets/docs/Titile-and-hover-color.png)
+
+### Typography
+
+    I used two fonts for this project:
+
+* The Seasons for the heading.
+
+* Serif for the content.
+
 
 
 ## Features 
