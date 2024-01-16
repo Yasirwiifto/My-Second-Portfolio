@@ -83,10 +83,10 @@ nav {
     /* Styling for the main slider container */
     .slider-container {
         position: relative;
-        width: 80%;
+        width: 65%;
         margin: auto;
         overflow: hidden;
-        border: 1px solid #ddd;
+        border: 1px solid #171717;
         border-radius: 8px;
         box-shadow: 0 0 10px #0000001a;
       }
@@ -149,7 +149,7 @@ nav {
       }
   
       button:hover {
-        background-color: #f85114;
+        background-color: #ce4210;
       }
 
 
@@ -252,7 +252,7 @@ nav {
 /* Footer section */
 
 .footer-link img:hover{
-    background-color: #67615c;
+    background-color: #413e3d;
     border-radius: 2rem;
 }
 /* End Of Footer Section */
