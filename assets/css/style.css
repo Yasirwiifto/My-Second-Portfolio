@@ -231,7 +231,9 @@ nav {
     }
 
     input::placeholder {
-        color: #cdcccc;
+        font-weight: italic;
+        opacity: 0.5;
+        color: #e1e1e1;
     }
 
     #submit {
