@@ -230,6 +230,14 @@ nav {
         color: #ff6633;
     }
 
+  input::placeholder {
+    color: #ff6633;
+    opacity: 1;
+    font-weight: bold;
+    font-size: 1.5rem;
+    font-family: 'the seasons';
+  }
+
     #submit {
     border: 1px solid #ff6633;
     border-radius: 3rem;
