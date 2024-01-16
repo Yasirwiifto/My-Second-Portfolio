@@ -143,6 +143,34 @@ The footer contains three social links each link opens external link.
 ***
 
 
+## **Technologies**
+
+* HTML
+* CSS
+* Bootstrap
+
+
+***
+
+
+### Libraries and frameworks
+
+* Git - for version control.
+* Bootstrap
+* Gsap - JS
+* GitHub - to store the project's code after being pushed from Git.
+* Visual Studio Code - to code my project.
+* Lighthouse - to test the accessibility of the website.
+* Am I responsive? To present the website image on a different devices.
+* Google Dev Tools - to test features, and responsiveness and to troubleshoot.
+* Figma - to design of the project.
+* Favicon.io - to generate favicon icons for the website.
+* chat.openai - to write README file for the document.
+* cooler - to check color contrast and the background and text color.
+
+*** 
+
+
 ## Deployment
 
 
