@@ -40,6 +40,35 @@ I am creating this portfolio as part of a series of projects. This is the second
 
 ***
 
+
+## Design:
+
+### Home Section
+
+![Home Section](assets/docs/Design-home-section.png)
+
+***
+
+### Project Section
+
+![Project Section](assets/docs/Design-project-section.png)
+
+***
+
+### About Section
+
+![About section](assets/design/tablet-about.png)
+
+***
+
+### Contact Section
+
+![Contact Section](assets/docs/Design-contact-section.png)
+
+***
+
+
+
 ## Features 
 
 My website has one index page that contains four sections. Home Section, Projects Section,About Section, and Contact Section. It's designed to be responsive to various screen sizes.
