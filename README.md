@@ -167,6 +167,65 @@ Comprehensive testing was conducted on the following devices:
 
     Laptop:
 
+* MacBook Air
+
+    Mobile Devices:
+
+* iPhone 13 Pro Max
+
+Furthermore, the website underwent testing using the following browsers:
+
+* Google Chrome
+* Safari
+
+I have a few problem for the responsive when taken these steps but fixed them all no issues.
+
+***
+
+## Automated Testing
+
+### W3C Validator
+
+I used [W3C](https://www.w3.org/) to validate both the HTML and CSS with direct input on both pages of the website.
+
+    HTML W3C Validator
+
+The results were pass with No errors or warnings to show. 
+
+![index.html](assets/docs/HTML-valiadtor-check.png)
+
+***
+
+    CSS Validator
+
+The results were Congratulations! No Error Found. 
+
+![style.css](assets/docs/CSS-validation-check.png)
+
+***
+    JaaScript jshint
+
+The results were Congratulations! No Error Found. 
+
+![Script.js](assets/docs/js-jshint.png)
+
+***
+
+### Lighthouse
+
+I utilized Lighthouse, a feature within Chrome Developer Tools, to assess the website's performance, accessibility, adherence to best practices, and SEO.
+
+    Mobile lighthouse
+
+![Mobile-lighthouse](assets/docs/mobile-lighthouse.png)
+
+***
+
+     Desktop lighthouse
+
+![Desktop-lighthouse](assets/docs//desktop-lighthouse.png)
+
+***
 
 ## **Technologies**
 
