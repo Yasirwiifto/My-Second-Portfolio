@@ -240,8 +240,8 @@ I utilized Lighthouse, a feature within Chrome Developer Tools, to assess the we
 ### Libraries and frameworks
 
 * Git - for version control.
-* Bootstrap
-* Gsap - JS
+* Bootstrap - To save time and make my website responsive.
+* Gsap - To add animation.
 * GitHub - to store the project's code after being pushed from Git.
 * Visual Studio Code - to code my project.
 * Lighthouse - to test the accessibility of the website.
